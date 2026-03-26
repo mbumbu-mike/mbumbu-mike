@@ -86,10 +86,10 @@ This approach combines **practical experience** from analytics projects and rese
 
 ## 🔹 Selected Projects
 
-* **[Stock Price & Volatility Analysis](https://github.com/your-actual-username/stock-volatility-analysis)** – Rolling volatility, log returns, OLS & MLE modeling.
-* **[Tesla GARCH Modeling](https://github.com/your-actual-username/tesla-garch)** – Forecasting conditional volatility for Tesla stock.
-* **[SBA Loan Analysis](https://github.com/your-actual-username/sba-loan-analysis)** – Loan repayment prediction and risk analysis.
-* **[Customer Behavior & Financial Stability](https://github.com/your-actual-username/customer-behavior-analysis)** – Customer segmentation & stability scoring.
+* **[Stock Price & Volatility Analysis](https://github.com/mbumbu-mike/Stock-Price-and-Volatility-Analysis)** – Rolling volatility, log returns, OLS & MLE modeling.
+* **[Tesla GARCH Modeling](https://github.com/mbumbu-mike/Tesla-Stock-Volatility-Analysis-using-GARCH-Models)** – Forecasting conditional volatility for Tesla stock.
+* **[SBA Loan Analysis](https://github.com/mbumbu-mike/Loan_Analysis-SBA-)** – Loan repayment prediction and risk analysis.
+* **[Customer Behavior & Financial Stability](https://github.com/mbumbu-mike/Customer-Behavioral-and-Financial-Analysis)** – Customer segmentation & stability scoring.
 * **[Extreme Value Analysis](https://github.com/your-actual-username/extreme-value-analysis)** – Modeling rare rainfall events & commodity shocks using POT & GPD.
 
 ---
