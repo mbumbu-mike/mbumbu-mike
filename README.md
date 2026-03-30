@@ -31,7 +31,7 @@ I enjoy **transforming complex datasets into actionable insights** and building 
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400">
 </div>
 
-I view data as more than numbers — it’s **patterns, behaviors, risks, opportunities, and signals** waiting to be uncovered. My workflow is designed to transform raw data into actionable insights, guiding decision-making and solving real-world problems.
+I view data as more than numbers — it’s patterns, behaviors, risks, opportunities, and signals waiting to be uncovered. My workflow is designed to transform raw data into actionable insights, guiding decision-making and solving real-world problems.
 
 ```mermaid
 graph LR
