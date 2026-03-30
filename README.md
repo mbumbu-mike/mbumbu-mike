@@ -28,7 +28,16 @@ I enjoy **transforming complex datasets into actionable insights** and building 
 ## 🧠 How I Approach Data
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400">
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400">
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"/>
+
 </div>
 
 I view data as more than numbers — it’s **patterns, behaviors, risks, opportunities, and signals** waiting to be uncovered. My workflow is designed to transform raw data into actionable insights, guiding decision-making and solving real-world problems.
@@ -47,9 +56,6 @@ graph LR
     style D fill:#45B7D1,stroke:#333,stroke-width:2px,color:#000
     style E fill:#96CEB4,stroke:#333,stroke-width:2px,color:#000
     style F fill:#FECA57,stroke:#333,stroke-width:2px,color:#000
-```
-
-This approach combines **practical experience** from analytics projects and research with **academic insights** from my Master’s studies, ensuring solutions are both rigorous and actionable.
 
 ---
 
